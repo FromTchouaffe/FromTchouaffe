@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FromTchouaffe
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data in general and open source philosophy
+- 🌱 I've got a university degree in data analysis
+- 💞️ I’m looking to collaborate on data analyst projects
+- 📫 How to reach me christiantchouaffe@orange.fr
